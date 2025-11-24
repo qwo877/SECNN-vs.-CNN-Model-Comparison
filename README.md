@@ -47,5 +47,5 @@ SECNN-vs.-CNN-Model-Comparison/
 
 
 ## Training Models
-python train.py --model cnn --epochs 20
+python train.py --model cnn --epochs 20  
 python train.py --model se --epochs 20
