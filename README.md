@@ -20,15 +20,14 @@ By training and testing both models under the same dataset and conditions, the p
 ## Environment
 
 - OS: Windows / Linux / macOS
-- Python: `3.x`
-- PyTorch
-  - `numpy`
-  - `pandas`
-  - `matplotlib`
-  - `scikit-learn`
-  - `tqdm`
-  - `opencv-python`
-
+- `Python: 3.x`
+- `PyTorch`
+- `torch`
+- `torchvision`
+- `numpy`
+- `matplotlib`
+- `scikit-learn`
+- `tqdm`
 
 ```
 SECNN-vs.-CNN-Model-Comparison/
