@@ -30,7 +30,7 @@ By training and testing both models under the same dataset and conditions, the p
   - `opencv-python`
 
 
-`
+```
 SECNN-vs.-CNN-Model-Comparison/
 │
 ├─ model/
@@ -43,7 +43,7 @@ SECNN-vs.-CNN-Model-Comparison/
 ├─ test.py                       # Evaluation script
 ├─ utils.py                      # functions
 └─ README.md                     
-`
+```
 
 
 ## Training Models
